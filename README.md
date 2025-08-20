@@ -8,6 +8,7 @@ It demonstrates database design, normalization, relationships, and SQL querying 
 ## 📂 Project Structure
 - `grocery_store.sql` → Full database schema + sample data
 - `ERD.png` → Entity Relationship Diagram (database design visualization)
+- `README.md` → Project documentation and usage guide
 
 ---
 
